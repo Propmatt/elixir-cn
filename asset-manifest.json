@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elixir-cn/static/css/main.5252cf45.css",
-    "main.js": "/elixir-cn/static/js/main.75139527.js",
+    "main.js": "/elixir-cn/static/js/main.6ffe9888.js",
     "static/media/background.webp": "/elixir-cn/static/media/background.b07f3c6e38455c82b967.webp",
     "static/media/reroll.webp": "/elixir-cn/static/media/reroll.513e002d2c8ad2adfaf1.webp",
     "static/media/panel.webp": "/elixir-cn/static/media/panel.e1d8f5dd61c948a8ff6b.webp",
@@ -12,10 +12,10 @@
     "static/media/buttons.webp": "/elixir-cn/static/media/buttons.fbdf61b8abbe759b9657.webp",
     "index.html": "/elixir-cn/index.html",
     "main.5252cf45.css.map": "/elixir-cn/static/css/main.5252cf45.css.map",
-    "main.75139527.js.map": "/elixir-cn/static/js/main.75139527.js.map"
+    "main.6ffe9888.js.map": "/elixir-cn/static/js/main.6ffe9888.js.map"
   },
   "entrypoints": [
     "static/css/main.5252cf45.css",
-    "static/js/main.75139527.js"
+    "static/js/main.6ffe9888.js"
   ]
 }
